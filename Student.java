@@ -31,6 +31,7 @@ class Student{
         return marks;
     }
     public String toString(){
-        return "getId:"+getId()+"\n getName:"+getMarks()+"\n getMarks:"+getMarks();
+        return " getId:"+getId()+"\n getName:"+getMarks()+"\n getMarks:"+getMarks();
     }
+
 }
