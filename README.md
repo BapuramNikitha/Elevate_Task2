@@ -36,4 +36,4 @@ Enter your choice: 1
 Enter Student ID: 101
 Enter Student Name: Alice
 Enter Student Marks: 92.5
-Student data added successfully!
+Student Details added successfully!
